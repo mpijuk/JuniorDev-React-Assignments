@@ -1,0 +1,18 @@
+{
+    "about": {
+        "address": "Horvati 17, Split 21000, Croatia",
+        "email": "stipe.horvat@gmail.com",
+        "github": "https://github.com/blabla",
+        "phone": "+385 95 742 8915",
+        "text": "Computer science student with bachelor’s degree. Experienced in various CS fields (particularly interested in web and mobile development). Capable of working in a team or solo and persistent in completing any task."
+    },
+    "skills": {
+        "skill1": "Active knowledge of Microsoft Windows operating systems and Microsoft Office",
+        "skill2": "Knowledge of basic Linux commands",
+        "skill3": "Familiar with data structures and object oriented programming",
+        "programmingLanguages": "C/C++, JavaScript, PHP and Python",
+        "storageTechnologies": "SQL(PostgreSQL), Firebase, MongoDB",
+        "frameworksLibraries": "Flutter, React"
+    }
+    
+}

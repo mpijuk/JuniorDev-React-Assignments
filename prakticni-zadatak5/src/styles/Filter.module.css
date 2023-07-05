@@ -1,0 +1,14 @@
+.divContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 90px;
+}
+
+.pText {
+    font-size: 32px;
+    font-weight: bold;
+}
+label {
+    font-size: 18px;
+}

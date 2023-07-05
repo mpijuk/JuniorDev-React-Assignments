@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    width: 70rem;
+    margin: 10px 30px;
+}
+.header {
+    width:auto;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #c6bddb;
+}
+
+p {
+    font-size: 40px;
+    font-weight: 700;
+}

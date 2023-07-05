@@ -1,0 +1,11 @@
+.team{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.name {
+    font-family: "Tomorrow";
+    font-size: 30px;
+    font-weight: bold;
+}

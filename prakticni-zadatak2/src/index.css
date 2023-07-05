@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Tomorrow&display=swap');
+
+html,
+body,
+#root,
+.app {
+  width: 100%;
+  margin: 0;
+  background-color: #d9d2e9;
+  padding-top: 1rem;
+  font-family: "Tomorrow";
+}

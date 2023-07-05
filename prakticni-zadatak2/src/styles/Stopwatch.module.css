@@ -1,0 +1,19 @@
+.stopwatchContainer {
+    border: 2px solid #fbbd00;
+    border-radius: 40px;
+    background-color:#ffd966;
+    width: 50rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.time {
+    font-family: "Tomorrow";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.stopwatchButtons {
+    display: flex;
+    align-items: center;
+}

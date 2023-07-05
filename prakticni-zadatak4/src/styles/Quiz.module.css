@@ -1,0 +1,78 @@
+.quizContainer {
+    border: 2px solid #fbbd00;
+    border-radius: 40px;
+    background-color: #e3c4ed;
+    width: 70rem;
+    height: 35rem;
+    padding: 20px 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.answerContainer{
+    margin: 20px auto;
+    height:200px;
+    display:grid;
+    grid-template-columns: 200px 200px;
+    grid-row: auto auto;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+}
+
+.box{
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    color: #fff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size: 22px;
+}
+.box:hover{
+    cursor:pointer;
+    opacity: 0.7;
+}
+
+.columnContainer1 {
+    width: 45rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.columnContainer2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.textBold {
+    font-weight:900;
+    font-size: 32px;
+}
+
+.textScore {
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.tryagainButton {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    color: #fff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size: 22px;
+    background-color: #333;
+}
+
+.tryagainButton:hover{
+    cursor:pointer;
+    opacity: 0.7;
+}

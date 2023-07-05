@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: #fff44d;
+  font-family: "Lora";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

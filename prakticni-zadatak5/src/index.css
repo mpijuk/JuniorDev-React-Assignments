@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: #f2e1e8;
+  font-family: "Indie Flower";
+  font-weight: bold;
+ 
+}

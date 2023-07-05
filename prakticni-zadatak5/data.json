@@ -1,0 +1,57 @@
+{
+  "clothes": [
+    {
+      "clothPiece": {
+        "type": "sweater",
+        "size": "S",
+        "color": {
+          "r": 34,
+          "g": 125,
+          "b": 177,
+          "a": 1
+        },
+        "picture": "sweater.jpg"
+      },
+      "id": 7
+    },
+    {
+      "clothPiece": {
+        "type": "T-shirt",
+        "size": "M",
+        "color": {
+          "r": 166,
+          "g": 63,
+          "b": 63,
+          "a": 1
+        },
+        "picture": "tshirt-white.jpg"
+      },
+      "id": 9
+    },
+    {
+      "clothPiece": {
+        "type": "sweater",
+        "size": "M",
+        "color": {
+          "r": 90,
+          "g": 181,
+          "b": 90,
+          "a": 1
+        },
+        "picture": "sweater.jpg"
+      },
+      "id": 10
+    }
+  ],
+  "types": [
+    "T-shirt",
+    "pants",
+    "sweater"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ]
+}
